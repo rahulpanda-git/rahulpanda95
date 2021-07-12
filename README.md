@@ -4,7 +4,7 @@
 
 As a Data & Cloud Engineer, I design Big Data solutions Architecture that help businesses make data-driven decisions, take proactive measures, mitigate risk, optimize & improve customer experience, and many more.
 
-My expertise include;
+My expertise include 
 • Setting up Hadoop and OLAP environment.
 • Perform data integration and define ETL workflows.
 • Develop and optimize Data Warehouse, Data Lake, and Data Marts.
